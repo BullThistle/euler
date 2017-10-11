@@ -1,0 +1,7 @@
+npm install karma karma-coverage --save-dev
+
+karma-coverage --save-dev
+
+npm i nyc --save-dev
+
+npm install browserify-istanbul
